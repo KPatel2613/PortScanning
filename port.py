@@ -6,10 +6,10 @@ import os
 usage = "python3 port.py TARGET START_PORT END_PORT"
 
 
-os.system("figlet -f mono12 H4CK3R | lolcat")
+os.system("figlet -f mono12 KRUTIK | lolcat")
 print("="*50)
 print("Python Simple Prot Scaner")
-print ("Author  : H4CK3R")
+print ("Author  : KRUTIK")
 print ("contact : http://we.me/+917600354912")
 print("="*50)
 
