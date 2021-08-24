@@ -26,6 +26,8 @@ except socket.gaierror:
 start_port = int(sys.argv[2])
 end_port = int(sys.argv[3])
 
+os.system("clear")
+os.system("figlet -f mono9 Running | lolcat")
 print("Scanning Target : ",target)
 
 def scan_port(port):
